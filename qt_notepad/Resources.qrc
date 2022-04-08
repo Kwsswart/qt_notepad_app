@@ -1,2 +1,14 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/images">
+        <file>undo_icon.png</file>
+        <file>save_icon.png</file>
+        <file>redo_icon.png</file>
+        <file>print_icon.png</file>
+        <file>paste_icon.png</file>
+        <file>open_icon.png</file>
+        <file>new_file_icon.png</file>
+        <file>exit_icon.png</file>
+        <file>cut_icon.png</file>
+        <file>copy_icon.png</file>
+    </qresource>
+</RCC>
